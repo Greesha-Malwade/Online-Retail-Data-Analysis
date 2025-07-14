@@ -63,7 +63,6 @@ To help an e-commerce company:
 
 ## 📸 Sample Visualizations
 
-- Monthly Sales Trend
 - Top 10 Countries by Revenue
 - Top-Selling Products
 - Most Loyal Customers
